@@ -3,6 +3,11 @@
 - 🌱 I’m an AI and Robotics Scientist and Entrepeneuer
 - 👨‍💻 Programming Language Expertise: Python, R, MatLab, C, C++, C# ,Java, php, node.js, Flutter,JAVA Script, HTML5, CSS3, PHP
 - 👨‍💻 Web Platforms Expertise: Flask, Django, React, ASP.NET, WPF, WFP, MVC, Shiny R
+- 👨‍💻 Mobile Platforms Expertise: Android
+- 👨‍💻 Database plaforms Expertise: MySQL, MSSQL, ORACLE, SQLlit, Json, Oracle Apex,MongoDB, Firebase
+- 👨‍💻 Data Analytics Expertise: RapidMiner, tableau, MS Excel, Oracle Apex
+- 👨‍💻
+- 👨‍💻
 - 💞️ I’m looking to collaborate on for Research and Commercial Projects
 - 📫 How to reach me: https://www.linkedin.com/in/alina-baber-92198481/
 - 📫 See My Portfolio:
