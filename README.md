@@ -9,7 +9,7 @@
 - 👨‍💻 Server Expertise: Xampp, Asp.net,AWS Cloud Computing Docker, Kubernetes
 - 👨‍💻 Software Expertise: PyCharm, PLS, IBM SPSS, Dreamweaver, Photoshop, CISCO, Visual Studio, MICROS RES POS, MS office, Flash, Aftereffects, Premiere, Draw.io, Canvas
 - 👨‍💻 Networking Expertise: Wireshark, Zenmap
-- 💞️ I’m looking to collaborate on for Research and Commercial Projects
+- 💞️ I’m looking to collaborate on Research and Commercial Projects
 - 📫 How to reach me: https://www.linkedin.com/in/alina-baber-92198481/
 - 📫 See My Portfolio:
 - 👀 Checkout My Youtube Channel: https://www.youtube.com/@alinababer4129
