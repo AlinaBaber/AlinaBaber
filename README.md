@@ -6,13 +6,15 @@
 - 👨‍💻 Mobile Platforms Expertise: Android
 - 👨‍💻 Database plaforms Expertise: MySQL, MSSQL, ORACLE, SQLlit, Json, Oracle Apex,MongoDB, Firebase
 - 👨‍💻 Data Analytics Expertise: RapidMiner, tableau, MS Excel, Oracle Apex
-- 👨‍💻
-- 👨‍💻
+- 👨‍💻 Server Expertise: Xampp, Asp.net,AWS Cloud Computing Docker, Kubernetes
+- 👨‍💻 Software Expertise: PyCharm, PLS, IBM SPSS, Dreamweaver, Photoshop, CISCO, Visual Studio, MICROS RES POS, MS office, Flash, Aftereffects, Premiere, Draw.io, Canvas
+- 👨‍💻 Networking Expertise: Wireshark, Zenmap
 - 💞️ I’m looking to collaborate on for Research and Commercial Projects
 - 📫 How to reach me: https://www.linkedin.com/in/alina-baber-92198481/
 - 📫 See My Portfolio:
-- 👀 Checkout My Youtube Channel:
-- 📫 See My instagram Profile: https://web.facebook.com/Alina.Baber
+- 👀 Checkout My Youtube Channel: https://www.youtube.com/@alinababer4129
+- 📫 See My Facebook Profile: https://web.facebook.com/Alina.Baber
+-  See My instagram Profile: https://www.instagram.com/alinababer
 <!---
 AlinaBaber/AlinaBaber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
