@@ -14,7 +14,7 @@
 - 📫 See My Portfolio:
 - 👀 Checkout My Youtube Channel: https://www.youtube.com/@alinababer4129
 - 📫 See My Facebook Profile: https://web.facebook.com/Alina.Baber
--  See My instagram Profile: https://www.instagram.com/alinababer
+-  See My instagram Profile: https://www.instagram.com/alinababerofficial
 <!---
 AlinaBaber/AlinaBaber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
