@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlinaBaber
-- 👀 I’m interested Artificial Intelligence, Blockchain, IoT, AI based controllers, Robotics, Bioinformative , Generative AI , LLMs
+- 👀 I’m interested Artificial Intelligence, Blockchain, IoT, AI based controllers, Robotics, Bioinformative , Generative AI , LLMs, AI Agents
 - 🌱 I’m an AI and Robotics Scientist and Entrepeneuer
 - 👨‍💻 Programming Language Expertise: Python, R, MatLab, C, C++, C# ,Java, php, node.js, Flutter,JAVA Script, HTML5, CSS3, PHP
 - 👨‍💻 Web Platforms Expertise: Flask, Django, React, ASP.NET, WPF, WFP, MVC, Shiny R
