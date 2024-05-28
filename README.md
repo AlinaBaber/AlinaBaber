@@ -15,6 +15,9 @@
 - 👀 Checkout My Youtube Channel: https://www.youtube.com/@alinababer4129
 - 📫 See My Facebook Profile: https://web.facebook.com/Alina.Baber
 -  See My instagram Profile: https://www.instagram.com/alinababerofficial
+-  PUBLICATIONS:
+Fingerprint generation and authentication though Adaptive convolution generative adversarial network (ADCGAN)
+Source: [Research Gate](https://www.researchgate.net/publication/372429310_Fingerprint_generation_and_authentication_though_Adaptive_convolution_generative_adversarial_network_ADCGAN), [Semantic Schola](https://www.semanticscholar.org/paper/Fingerprint-generation-and-authentication-though-Mustafa-Zehra/a810bb649e887f80476d4deecae786049616da19),[ieee.explor](https://ieeexplore.ieee.org/document/10178664)e
 <!---
 AlinaBaber/AlinaBaber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
