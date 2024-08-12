@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌱 I’m an AI and Robotics Scientist and Entrepreneur
-- 👀 I’m interested in Artificial Intelligence, Blockchain, IoT, AI-based controllers, Robotics, Bioinformatics, Generative AI, LLMs, AI Agents
+- 👀 I’m interested in Artificial Intelligence, Blockchain, IoT, AI-based controllers, Robotics, Bioinformatics, Generative AI, LLMs, GANs AI Agents
 - 💞️ I’m looking to collaborate on Research and Commercial Projects
 
 ## Expertise
