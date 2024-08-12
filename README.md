@@ -7,7 +7,7 @@
 
 ## Expertise
 ### Programming Languages
-Python, R, MatLab, C, C++, C#, Java, PHP, Node.js, Flutter, JavaScript, HTML5, CSS3
+Python, R, MatLab, C, C++, C#, Java, PHP, Node.js, Flutter,Kotlin JavaScript, HTML5, CSS3
 
 ### Web Platforms
 Flask, Django, React, ASP.NET, WPF, WFP, MVC, Shiny R
