@@ -6,6 +6,9 @@
 - 💞️ I’m looking to collaborate on Research and Commercial Projects
 
 ## Expertise
+### Artificial Intelligence
+Expert in AI fundamentals, machine learning, generative AI,Open AI ChatGpt Integrations, Prompt Engineering, LLMs , langchain , Tensor flow, keras and their prompt engineering, transfer learning , Vision LLMs and AI agents, GANs, KANs, Liquid State models, Evolutionary Algorithms , Reinforcement Learning, ,Swarm Intelligence, Optimization; intermediate in bioinformatics; beginner in blockchain.
+
 ### Programming Languages
 Python, R, MatLab, C, C++, C#, Java, PHP, Node.js, Flutter,Kotlin JavaScript, HTML5, CSS3
 
