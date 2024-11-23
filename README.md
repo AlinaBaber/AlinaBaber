@@ -7,9 +7,9 @@
 - 🚀 Founder of a startup focused on cutting-edge AI-driven solutions across various industries, including healthcare, automation, and robotics.
 - 🎤 Speaker and mentor, dedicated to sharing knowledge and inspiring the next generation of tech innovators.
 ## Experience
-**Founder , CEO and AI & Robotics Scientist** at **Alphatron Technologies Private Limited** (Feb 2015-Present)
-**AI & Software Development Manager** at **MAS & Co** (October 2024-Present)
-**AI Manager** at **Appedology Private Limited** (July 2023-July 2024)
+- **Founder , CEO and AI & Robotics Scientist** at **Alphatron Technologies Private Limited** (Feb 2015-Present)
+- **AI & Software Development Manager** at **MAS & Co** (October 2024-Present)
+- **AI Manager** at **Appedology Private Limited** (July 2023-July 2024)
 
 ## Expertise
 
